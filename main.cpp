@@ -68,8 +68,8 @@ int main()
                                 tileSize = 100.f;
                                 break;
                             case 2: // Hard
-                                boardSize = 6;
-                                activeTiles = 6;
+                                boardSize = 7;
+                                activeTiles = 5;
                                 tileSize = 100.f;
                                 break;
                             default:
