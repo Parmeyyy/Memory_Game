@@ -14,10 +14,10 @@
 ![Игровое поле](screen/gameboard.png)
 
 ### Результат — Correct  
-![Правильный ответ](screen/correct.png)
+![Правильный ответ](screen/incorrect.png)
 
 ### Результат — Incorrect  
-![Неправильный ответ](screen/incorrect.png)
+![Неправильный ответ](screen/correct.png)
 
 Видео: [Ссылка на YouTube ](https://youtu.be/v0nlV29p1OQ)
 
